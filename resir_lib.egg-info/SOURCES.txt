@@ -1,0 +1,8 @@
+setup.py
+resir_lib/__init__.py
+resir_lib/optimizer.py
+resir_lib/utils.py
+resir_lib.egg-info/PKG-INFO
+resir_lib.egg-info/SOURCES.txt
+resir_lib.egg-info/dependency_links.txt
+resir_lib.egg-info/top_level.txt
